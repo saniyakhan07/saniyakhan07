@@ -2,7 +2,6 @@
 saniyakhan07/saniyakhan07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img alt="Thanks for visiting my profile" width="100%" src="./1 - Copy.jpg" />
 <hr>
 <h1 align="center">Hi 👋, I'm Saniya Khan</h1>
 <h3 align="center">A passionate Programmer, Full Stack Developer from India</h3>
